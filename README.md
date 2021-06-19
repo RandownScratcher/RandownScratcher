@@ -2,7 +2,6 @@
  
 - 👀 I’m interested in learn coding!
 - 🌱 I’m currently learning coding!
-- 📫 How to reach me RandownScratcher@protonmail.com
 
 
 
