@@ -4,7 +4,7 @@
 <h3 align="center">A noob in learning!</h3>
 
 - 👀 I’m interested in WebDevelopment!
-- 🌱 I’m currently learning **Python, Html, Css and Javascript*+
+- 🌱 I’m currently learning **Python, Html, Css and Javascript**
 
 
 <!---
